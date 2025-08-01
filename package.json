@@ -1,0 +1,19 @@
+{
+  "name": "typescript-mock-server",
+  "version": "1.0.0",
+  "description": "A simple server to provide mock jsons",
+  "license": "ISC",
+  "author": "Pedro Falcão",
+  "type": "module",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
