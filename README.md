@@ -22,7 +22,7 @@ code .
 ```
 E então utilizar o terminal da própria IDE para executar o comando a seguir:
 ```shell
-git clone https://github.com/codexjr-dev/explora-edu-api.git
+git clone https://github.com/PedroFDiniz/typescript-mock-server.git
 ```
 ### 1.3 - Instalação das Dependências
 Uma vez clonado o projeto, navegue até a pasta específica baixada no terminal (Git Bash fortemente recomendado) e a partir de lá, execute o seguinte script:
