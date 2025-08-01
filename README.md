@@ -24,6 +24,7 @@ E então utilizar o terminal da própria IDE para executar o comando a seguir:
 ```shell
 git clone https://github.com/PedroFDiniz/typescript-mock-server.git
 ```
+OBSERVAÇÃO: Certifique-se de usar o terminal Git Bash, porque o PowerShell e o Command Prompt podem se recusar a rodar alguns scripts.
 ### 1.3 - Instalação das Dependências
 Uma vez clonado o projeto, navegue até a pasta específica baixada no terminal (Git Bash fortemente recomendado) e a partir de lá, execute o seguinte script:
 ```shell
